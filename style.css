@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-bpx;
+  font-family: Arial, sans-serif;
+}
+body {
+  background: #f4f4f4;
+  color: #333;
+}
+header {
+  background: #111;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav a {
+  color: white;
+  text-decoration:none;
+  margin-lrft: 15px;
+}
+section {
+  padding: 50px 20px;
+}
+#home {
+  background: #0066ff;
+  color: white;
+  text-align:center;
+}
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
